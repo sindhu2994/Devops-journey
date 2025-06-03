@@ -31,4 +31,17 @@ Imagine a team building a web app:
 
 
 
-Hello
+## Day 2 - AWS Basics
+
+- Region: Europe (London) - `eu-west-2`
+- Services explored:
+  - EC2 – Virtual machines
+  - S3 – Object storage
+  - IAM – User and permission management
+  - CloudWatch – Monitoring
+
+### Regions and Availability Zones
+- A Region is a geographical area (e.g., `eu-west-2`).
+- Each Region has 2+ AZs which are separate data centers.
+- Using multiple AZs ensures high availability and fault tolerance.
+
